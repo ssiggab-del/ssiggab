@@ -1,0 +1,122 @@
+body			{
+				background-image:url(/web/20180105171843im_/http://%ED%99%98%EA%B2%BD%EC%A7%80%ED%82%B4%EC%9D%B4%EC%9A%B4%EB%8F%99%EB%B3%B8%EB%B6%80.kr/images/top_bg.jpg);
+				background-repeat:repeat-x;
+				margin-top:0px;
+				margin-left:0px;
+				font:Tahoma,µ¸¿ò,±¼¸²;
+				font-size:9pt;
+				}
+				
+a				{
+				text-decoration:none;
+				color: #666666;
+				font:Tahoma,µ¸¿ò,±¼¸²;
+				font-size: 9pt;
+				}
+
+img 			{
+				border:0;
+				}
+
+#top_logo	{
+				float: left; display: inline; 
+				}
+#login{
+				float: right; display: inline; 
+				}		
+
+#big_body		{
+				width:948px;
+				}
+				
+#top_menu		{
+				width:948px;
+				}
+				
+#flash_part		{
+				width:948px;
+				float: left; display: inline;
+				}
+				
+#contents		{
+				width:948px;
+				margin: auto; display: inline;
+
+				}
+
+#left_menu		{
+				width:105px;
+				float: left; display: inline; margin-left:51px;
+				background-img:url('/web/20180105171843im_/http://%ED%99%98%EA%B2%BD%EC%A7%80%ED%82%B4%EC%9D%B4%EC%9A%B4%EB%8F%99%EB%B3%B8%EB%B6%80.kr/images/leftmenu_bg.jpg');
+				background-repeat:repeat-y;
+				}
+
+#content_img	{
+				width:755px;
+				float: right; display: inline;
+				}
+
+#bottom_company	{
+				
+				float: right; display: inline; margin-top:20px;
+				}
+				
+#bottom_nav		{
+				width:948px;
+				float: right; display: inline;
+				}
+				
+#left_menu_gap	{
+				width:81px;
+				height:17px;
+				margin: auto;
+				margin-top:6px;
+				}
+
+#board_contents	{
+				width:755px;
+				display: inline;;
+				}
+
+#top_login_form
+				{
+				display: inline; width:948px;;
+				}
+				
+
+//-- º¯°æ»çÇ×
+#container		{
+				margin:10px; display: inline;vertical-align:top;margin-right:10px;
+				}
+
+#main_contents	{
+				width:;948px;display:inline;
+				}
+
+#main_1			{
+				
+				}
+				
+#notice_free	{
+				width:358px; display: inline;
+				}
+/*
+     FILE ARCHIVED ON 17:18:43 Jan 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:40:21 Aug 14, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.438
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.007
+  esindex: 0.008
+  cdx.remote: 2159.222
+  LoadShardBlock: 645.889 (3)
+  PetaboxLoader3.resolve: 649.788 (4)
+  PetaboxLoader3.datanode: 143.226 (4)
+  load_resource: 187.809
+*/

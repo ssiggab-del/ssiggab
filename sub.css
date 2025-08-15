@@ -1,0 +1,156 @@
+body			{
+				background-image:url(/web/20180105162136im_/http://%ED%99%98%EA%B2%BD%EC%A7%80%ED%82%B4%EC%9D%B4%EC%9A%B4%EB%8F%99%EB%B3%B8%EB%B6%80.kr/images/top_bg.jpg);
+				background-repeat:repeat-x;
+				margin-top:0px;
+				margin-left:0px;
+				font:Tahoma,µ¸¿ò,±¼¸²;
+				font-size:9pt;
+				}
+				
+a				{
+				text-decoration:none;
+				color: #666666;
+				font:Tahoma,µ¸¿ò,±¼¸²;
+				font-size: 9pt;
+				}
+
+img 			{
+				border:0;
+				}
+
+#top_logo	{
+				float: left; display: inline; 
+				}
+#login{
+				float: right; display: inline; 
+				}		
+
+#big_body		{
+				width:948px;
+				}
+				
+#top_menu		{
+				float: left; display: inline;
+				}
+				
+#flash_part		{
+				width:948px;
+				float: left; display: inline;
+				}
+				
+#contents		{
+				width:948px;
+				margin: auto; display: inline;
+
+				}
+
+#left_menu		{
+				width:105px;
+				float: left; display: inline; margin-left:51px;
+				background-img:url('/web/20180105162136im_/http://%ED%99%98%EA%B2%BD%EC%A7%80%ED%82%B4%EC%9D%B4%EC%9A%B4%EB%8F%99%EB%B3%B8%EB%B6%80.kr/images/leftmenu_bg.jpg');
+				background-repeat:repeat-y;
+				}
+
+#content_img	{
+				width:755px;
+				float: right; display: inline;
+				}
+
+#bottom_company	{
+				
+				float: right; display: inline; margin-top:20px;
+				}
+				
+#bottom_nav		{
+				width:948px;
+				float: right; display: inline;
+				}
+				
+#left_menu_gap	{
+				width:81px;
+				height:17px;
+				margin-left:11px;
+				margin-top:6px;
+				}
+
+#board_contents	{
+				width:755px;
+				display: inline;;
+				}
+
+#top_login_form
+				{
+				display: inline; width:948px;;
+				}
+				
+#container		{
+				margin:10px; display: inline;vertical-align:top;margin-right:10px;
+				}
+
+#main_contents	{
+				width:;948px;display:inline;
+				}
+
+#main_1			{
+				
+				}
+				
+#notice_free	{
+				width:358px; display: inline;
+				}
+
+
+//--absolute
+
+#notice_free_bbs	{
+						position:absolute;
+						width:358px;
+						height:161px;
+						z-index:1;
+						left: 51px;
+						top: 640px;
+					}
+#photo_bbs			{
+						position:absolute;
+						width:357px;
+						height:161px;
+						z-index:1;
+						left: 452px;
+						top: 640px;
+					}
+#news_column_bbs	{
+						position:absolute;
+						width:358px;
+						height:134px;
+						z-index:1;
+						left: 51px;
+						top: 800px;
+					}
+#studydata			{
+						position:absolute;
+						width:357px;
+						height:134px;
+						z-index:1;
+						left: 452px;
+						top: 800px;
+					}
+/*
+     FILE ARCHIVED ON 16:21:36 Jan 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:40:22 Aug 14, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.523
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.01
+  esindex: 0.01
+  cdx.remote: 758.012
+  LoadShardBlock: 125.572 (3)
+  PetaboxLoader3.datanode: 159.61 (4)
+  load_resource: 293.625
+  PetaboxLoader3.resolve: 248.747
+*/
